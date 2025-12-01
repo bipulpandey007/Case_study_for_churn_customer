@@ -22,9 +22,9 @@ To predict which customers are most likely to leave (churn) based on their histo
 ---
 
 ## 🧾 Tools Used
-- IBM SPSS Modeler  
-- Data Mining / Predictive Analytics  
-- CHAID Decision Tree Algorithm  
+- IBM SPSS Modeler 
+- CHAID Decision Tree Algorithm
+- Predictive Analytics / Data mining
 
 ---
 
@@ -34,8 +34,9 @@ Generated churn prediction and probability reports identifying customers most at
 ---
 
 ## 👨‍💻 Author
-**Anand Kumar Gupta**  
-_BCA (Data Science & AI), Babu Banarasi Das University_
+**BIPUL KUMAR PANDEY**  
+_BCA (Data Science & AI), 
+Babu Banarasi Das University_
 
 ---
 
